@@ -1,0 +1,6 @@
+{
+  "name": "PatchWire Cyber",
+  "description": "Next-Gen Cybersecurity Virtual Practical Training & Internship Platform, featuring active terminal labs, graded quizzes, verified certificates, and real-time community boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
